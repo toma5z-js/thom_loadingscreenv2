@@ -5,11 +5,16 @@ thom_loadv2
  it is very simple to use and configure.
  
  
+ 
+ 
+ 
  if u want to add ur custom music/video u have to do:
  html/video
  delete audio.mp3 and video.mp4 files
  add ur files
  rename to audio.mp3 and video.mp4
+ 
+ same with logo
  
  if u want to change glass boxes description go to html/index.html and change it there.
  
