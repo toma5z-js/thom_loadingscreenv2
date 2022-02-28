@@ -22,3 +22,7 @@ thom_loadv2
  
  if u have more questions join to my discord server
  discord.io/thom-hub
+
+PRESENTATION OF MY LOADINGSCREEN
+https://imgur.com/7OcrkYl
+https://youtu.be/YzakZz-B57E
